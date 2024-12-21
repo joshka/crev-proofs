@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2024-12-21T00:33:09.944680-08:00
+from:
+  id-type: crev
+  id: g73XO913zaBIkXJ-1fifh4OSIGMX_pPPZhTjr9JYbxc
+  url: https://github.com/joshka/crev-proofs
+package:
+  source: https://crates.io
+  name: tower-service
+  version: 0.3.3
+  revision: 646804d77eebf072dac180cb5e1256b9ee7e0229
+  digest: MTvHbOMm2f4LPKde-rlVSFvRd3x_h4To4WmQKAHOs5g
+review:
+  thoroughness: medium
+  understanding: high
+  rating: strong
+comment: |-
+  The tower::service trait
+----- SIGN CREV PROOF -----
+UKd1yPpR_OwFZSJP3ShzQofUs_N7AT1igfZxZMQ3_uoEWQQhm-W0CYi4d9OvhJTQVFiLcTGvGNNbUzVBwV9hBw
+----- END CREV PROOF -----
+
